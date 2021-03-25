@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(121, 218, 250);
+    color: darkviolet;
+    font-family:Comic Sans MS;
+    justify-content: left;
+}
+h1{
+    border:dotted
+}
+input{
+    background-color:rgb(121, 218, 250);
+    color:darkviolet;
+    font-family:Comic Sans MS;
+    border:dashed;
+}
+.item{
+    display:flow-root;
+    width: 200px;
+    height: 200px;
+}
+button{
+    background-color: cornsilk;
+}
+select{
+    color: deeppink;
+    background-color: lemonchiffon;
+}
