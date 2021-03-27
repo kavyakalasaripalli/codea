@@ -13,10 +13,6 @@ input{
     font-family:Comic Sans MS;
     border:dashed;
 }
-.item{
-    width: 200px;
-    height: 200px;
-}
 button{
     background-color: cornsilk;
 }
