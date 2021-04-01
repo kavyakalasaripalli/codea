@@ -1,14 +1,14 @@
 *{
-    background-color: rgb(121, 218, 250);
-    color: rgb(180, 57, 0);
+    background-color:  rgb(180, 57, 0);
+    color: rgb(190, 211, 0);
     font-family:Comic Sans MS;
     justify-content: left;
 }
 h1{
-    border:dotted
+    border:dotted;
 }
 input{
-    background-color:rgb(121, 218, 250);
+    background-color: rgb(180, 57, 0);
     color:rgb(190, 211, 0);
     font-family:Comic Sans MS;
     border:dashed;
