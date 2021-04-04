@@ -3,6 +3,7 @@
     color: rgb(190, 211, 0);
     font-family:Comic Sans MS;
     justify-content: left;
+    display: grid;
 }
 h1{
     border:dotted;
@@ -21,7 +22,7 @@ select{
     background-color: lemonchiffon;
 }
 .item{
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 300px;
     background-color: rgb(190, 211, 0);
 }
