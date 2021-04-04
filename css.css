@@ -20,3 +20,10 @@ select{
     color: deeppink;
     background-color: lemonchiffon;
 }
+.item{
+    height: 100px;
+    width: 100px;
+}
+h6{
+    display: flex;
+}
