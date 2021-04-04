@@ -23,7 +23,5 @@ select{
 .item{
     height: 100px;
     width: 100px;
-}
-h6{
-    display: flex;
+    background-color: rgb(190, 211, 0);
 }
