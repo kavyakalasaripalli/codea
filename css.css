@@ -3,7 +3,6 @@
     color: rgb(211, 0, 0);
     font-family:Comic Sans MS;
     justify-content: left;
-    display: grid;
 }
 h1{
     border:dotted;
@@ -21,8 +20,4 @@ select{
     color: deeppink;
     background-color: lemonchiffon;
 }
-.item{
-    height: 300px;
-    width: 300px;
-    background-color: rgb(190, 211, 0);
-}
+
