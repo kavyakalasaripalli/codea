@@ -1,6 +1,6 @@
 *{
-    background-color:  rgb(95, 31, 2);
-    color: rgb(211, 0, 0);
+    background-color:  rgb(107, 113, 202);
+    color: rgb(116, 0, 211);
     font-family:Comic Sans MS;
     justify-content: left;
 }
@@ -8,8 +8,8 @@ h1{
     border:dotted;
 }
 input{
-    background-color: rgb(180, 57, 0);
-    color:rgb(211, 197, 0);
+    background-color: rgb(107, 113, 202);
+    color: rgb(116, 0, 211);
     font-family:Comic Sans MS;
     border:dashed;
 }
