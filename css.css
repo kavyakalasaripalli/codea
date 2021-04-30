@@ -1,5 +1,5 @@
 *{
-    background-color:  rgb(107, 113, 202);
+    background-color:  rgb(119, 202, 228);
     color: rgb(116, 0, 211);
     font-family:Comic Sans MS;
     justify-content: left;
@@ -8,7 +8,7 @@ h1{
     border:dotted;
 }
 input{
-    background-color: rgb(107, 113, 202);
+    background-color: rgb(119, 202, 228);
     color: rgb(116, 0, 211);
     font-family:Comic Sans MS;
     border:dashed;
